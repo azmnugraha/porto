@@ -1,0 +1,24 @@
+body{
+    padding-top: 56px;
+}
+
+section{
+    padding-top: 100px;
+}
+
+.padding-bot{
+    padding-bottom: 100px;
+}
+
+img{
+    width: 20%;
+}
+
+.bg-abu{
+    background-color: #f3f4f5;
+}
+
+svg {
+    display: block; /* Ensures SVG occupies full width */
+    margin: -1px 0 0 0; /* Pulls the SVG closer to the section above */
+}
